@@ -10,6 +10,11 @@ $body-bg: #ededed;
     border-top: 3px solid rgb(219, 219, 219);
 }
 
+.footer-styling{
+  padding-top:60px;
+  background-color:#ccc;
+}
+
 // Bootstrap Sass files
 @import "node_modules/bootstrap/scss/bootstrap";
 
